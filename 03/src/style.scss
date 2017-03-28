@@ -1,0 +1,15 @@
+$red: #ff0000;
+$white: #fff;
+$green: #00ff00;
+$blue: #0000ff;
+
+#message{
+  background-color: $red;
+  color: $white;
+  h1{
+    background: $green;
+  }
+  p{
+    background-color: $blue;
+  }
+}
