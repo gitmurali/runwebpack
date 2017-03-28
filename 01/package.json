@@ -1,0 +1,17 @@
+{
+  "name": "01webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js"
+  },
+  "author": "\"Murali Prasanth\"",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^2.3.2"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
