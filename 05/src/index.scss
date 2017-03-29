@@ -1,0 +1,20 @@
+.packageDetails {
+	display: none;
+	padding: 6px 0;
+	width: 354px;
+	&.selected {
+		display: block;
+	}
+	&.hover{
+		font-weight: bold;
+	}
+	&.deleted{
+		background: none;
+	}
+	&.clicked{
+		background: none;
+	}
+	&.clicked1{
+		background: none;
+	}
+}
